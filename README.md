@@ -1,2 +1,5 @@
 # test
-how to set up repository
+
+## Editing the file
+
+its a markdown file
