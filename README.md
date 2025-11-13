@@ -1,3 +1,2 @@
 # test
-testing how to set up repository
-testing adding text
+how to set up repository
